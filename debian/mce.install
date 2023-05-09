@@ -1,8 +1,11 @@
 debian/tmp/etc/mce
-debian/tmp/etc/osso-cud-scripts
-debian/tmp/etc/osso-rfs-scripts
+debian/tmp/etc/dbus-1
+#debian/tmp/etc/osso-cud-scripts
+#debian/tmp/etc/osso-rfs-scripts
+debian/tmp/lib/systemd/system/
 debian/tmp/var
 debian/tmp/usr/sbin/mce
+debian/tmp/usr/sbin/dummy_compositor
 debian/tmp/usr/lib/mce
-debian/tmp/usr/share/mce
-debian/tmp/usr/share/backup-framework/applications
+#debian/tmp/usr/share/mce
+#debian/tmp/usr/share/backup-framework/applications
