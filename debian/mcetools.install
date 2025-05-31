@@ -1,1 +1,3 @@
-debian/tmp/usr/sbin/mcetool
+usr/sbin/mcetool
+usr/sbin/dummy_compositor
+usr/sbin/evdev_trace

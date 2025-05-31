@@ -1,8 +1,2 @@
-sbin
-etc/mce
-etc/osso-cud-scripts
-etc/osso-rfs-scripts
-var/lib/mce
-usr/lib/mce
-usr/share/mce
-usr/share/backup-framework/applications
+var/lib/mce/
+var/run/mce/
